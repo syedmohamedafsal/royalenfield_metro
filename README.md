@@ -14,3 +14,11 @@ And below is a detiled video on the same.
 
 <a href="https://www.youtube.com/watch?v=D6T4rzbo0Q4" target="_blank"><img src="http://img.youtube.com/vi/D6T4rzbo0Q4/0.jpg" 
 alt="Developing blockchain app with flutter" width="480" height="360" border="10" /></a>
+
+---
+
+## Developer
+
+**Syed Mohamed Afsal**
+
+Instagram: [@syedmd_afsal](https://instagram.com/syedmd_afsal)
